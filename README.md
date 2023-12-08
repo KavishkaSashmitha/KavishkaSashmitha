@@ -1,5 +1,25 @@
 # 💫 About Me:
-<br>A passionate software developer from Sri Lanka.<br>📝 I regularly write articles on https://kavibro23.blogspot.com/<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me kavivlogs20@gmail.com<br>Undergraduate student at sliit<br>I am a passionate and driven Software Engineering student with a keen interest in cutting-edge technologies. Currently in my 2nd year of undergraduate studies, I am dedicated to honing my skills in software development and contributing to innovative projects.
+<h1 align="center">🚀 Kavishka Sashmith | Software Engineering Undergraduate | MERN Stack Enthusiast</h1>
+<h3 align="center">A passionate Software developer from Srilanka</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishkasashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkasashmitha" /> </p>
+
+- 🔭 I’m currently working on **MERN_Project**
+
+- 🌱 I’m currently learning **MERN STACK**
+
+
+- 🤝 I’m looking for help with **Machine Learning**
+
+- 📝 I regularly write articles on [https://kavibro23.blogspot.com/](https://kavibro23.blogspot.com/)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **kavivlogs20@gmail.com**
+
+- ⚡ Fun fact **Sometimes act nut looser**sion for problem-solving to make meaningful contributions to the world of software development. <br>Open to collaborations and always seeking opportunities to learn and grow.
+
+Let's connect! 👥 [www.linkedin.com/in/kavishka-sashmitha]
 
 
 ## 🌐 Socials:
