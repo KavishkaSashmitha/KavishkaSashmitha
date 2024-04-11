@@ -5,7 +5,7 @@
 <!-- Profile Views Badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishkasashmitha&label=Profile%20views&color=0e75b6&style=flat" alt="kavishkasashmitha" /> </p>
 
-<p align="left"> <img src ="[![committers.top badge](https://user-badge.committers.top/sri_lanka/kavishkasashmitha.svg)](https://user-badge.committers.top/sri_lanka/kavishkasashmitha)"/></p>
+
 <!-- Current Status -->
 - 🔭 I’m currently working on **MERN_Project**
 - 🌱 I’m currently learning **MERN STACK**
