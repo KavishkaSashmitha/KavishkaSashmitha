@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🚀 Kavishka Sashmith | Software Engineering Undergraduate | MERN Stack Enthusiast</h1>
+<h1 align="center">🚀 Kavishka Sashmith | Software Engineering Undergraduate </h1>
 <h3 align="center">Passionate Software Developer from Sri Lanka</h3>
 
 <!-- Profile Views Badge -->
@@ -29,13 +29,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavishkasashmitha&theme=dark&hide_border=false)
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kavishkasashmitha&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Random Dev Quote -->
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Random Dev Meme -->
-### 😂 Random Dev Meme
-![Random Dev Meme](https://randommeme-five.vercel.app/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kavishkasashmitha&icon=0&color=0)](https://visitcount.itsvg.in)
