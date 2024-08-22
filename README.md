@@ -7,9 +7,9 @@
 
 
 <!-- Current Status -->
-- 🔭 I’m currently working on **MERN_Project**
-- 🌱 I’m currently learning **MERN STACK**
-- 🤝 I’m looking for help with **Machine Learning**
+- 🔭 I’m currently working on **Flutter**
+- 🌱 I’m currently learning **Flutter**
+- 🤝 I’m looking for help with **Machine Learning & Mobile UI/UX**
 - 📝 I regularly write articles on [My Blog](https://kavibro23.blogspot.com/)
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: [kavivlogs20@gmail.com](mailto:kavivlogs20@gmail.com)
