@@ -12,8 +12,8 @@
 
 <!-- Current Status -->
 ### 🚀 About Me
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working on **NextJS**
+- 🌱 I’m currently learning **AI**
 - 🤝 Looking for help with **Machine Learning & Mobile UI/UX**
 - 📝 I regularly write on [My Blog](https://kavibro23.blogspot.com/)
 - 💬 Ask me about **Web Development**
